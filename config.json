@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
 	"siteurl" : "https://ee-learning.nus.edu.sg",
-    "gcmpn": "694767596569",
+	"gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }

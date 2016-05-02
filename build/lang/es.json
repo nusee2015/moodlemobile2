@@ -681,8 +681,8 @@
     "mma.notes.personalnotes": "Notas personales",
     "mma.notes.publishstate": "Contexto",
     "mma.notes.sitenotes": "Notas del sitio",
+    "mma.participants.participants": "Participantes",
     "mma.notifications.errorgetnotifications": "Error al obtener notificaciones",
     "mma.notifications.notifications": "Notificaciones",
-    "mma.notifications.therearentnotificationsyet": "No hay notificaciones",
-    "mma.participants.participants": "Participantes"
+    "mma.notifications.therearentnotificationsyet": "No hay notificaciones"
 }

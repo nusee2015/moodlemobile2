@@ -5,10 +5,10 @@
         id        = "sg.edu.nus.ee-learning"
         versionCode = "2011"
         version   = "3.0.0">
-    <name>NUS EE Learning</name>
+    <name>NUS EE-Learning</name>
 
     <description>
-        NUS EE Learning Mobiel App
+        NUS EE-Learning Mobile App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">

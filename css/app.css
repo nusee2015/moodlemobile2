@@ -26,6 +26,21 @@ $dark:                            #444 !default;
   used under CC BY http://creativecommons.org/licenses/by/4.0/
   Modified icons to fit ionicon’s grid from original.
 */
+.bar-header {
+		background-color:#5069A1;
+}
+ion-side-menu li .item{
+	background-color:#313848;
+	border-color:#4F5865;
+	color:#BCC3CF;
+}
+ion-side-menu li.item{
+	border-color:#4F5865;
+}
+ion-side-menu li.item.item-divider {
+	background-color:#3E4755;
+}
+
 @font-face {
   font-family: "Ionicons";
   src: url("../lib/ionic/fonts/ionicons.eot?v=2.0.1");

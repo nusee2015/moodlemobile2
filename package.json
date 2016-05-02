@@ -65,7 +65,15 @@
     "cordova-plugin-zip"
   ],
   "cordovaPlatforms": [
-    "android",
-    "ios"
+    {
+      "platform": "android",
+      "version": "4.1.1",
+      "locator": "android@4.1.1"
+    },
+    {
+      "platform": "ios",
+      "version": "3.9.1",
+      "locator": "ios@3.9.1"
+    }
   ]
 }

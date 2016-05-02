@@ -1,6 +1,6 @@
 {
     "about": "Om",
-    "appname": "Moodle Mobile {{version}}",
+    "appname": "NUS EE Learning Mobile {{version}}",
     "appready": "Appen är redo",
     "cacheexpirationtime": "Cache utgångs tid (millisekunder)",
     "cordovadevicemodel": "",

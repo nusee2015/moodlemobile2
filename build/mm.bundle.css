@@ -8009,15 +8009,6 @@ mm-navigation-bar .col {
 .has-side-menu-header {
   top: 80px; }
 
-input.mma-files-picker {
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-width: 100%;
-  min-height: 100%;
-  opacity: 0;
-  outline: none; }
-
 /* - User grades table (most of it extracted from MM1)
 -------------------------------------------------------------------------- */
 .mma-grades-table {
